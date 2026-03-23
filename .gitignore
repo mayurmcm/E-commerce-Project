@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+airflow_env/
+
+# Airflow
+airflow/
+logs/
+
+# Data files
+data/intermediate/
+data/raw/
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
